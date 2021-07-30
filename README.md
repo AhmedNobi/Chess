@@ -1,2 +1,2 @@
 # Chess
-Chess game using AI algorithm
+Chess game using AI algorithm.
